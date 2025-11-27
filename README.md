@@ -129,8 +129,8 @@ ENERGY-FORECASTING/
 ### **1️⃣ Clone the repository**
 
 ```sh
-git clone https://github.com/girishshen/ai-energy-forecast.git
-cd ai-energy-forecast
+git clone https://github.com/girishshen/AI-Energy-Forecast.git
+cd AI-Energy-Forecast
 ```
 
 ---
