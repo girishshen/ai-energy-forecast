@@ -85,7 +85,7 @@ This system predicts **next hour energy usage (kWh)** and provides a clean UI wi
 ## 📂 Project Structure
 
 ```
-ENERGY-FORECASTING/
+Energy-Forecasting/
 │── app/
 │   └── energy_app.py
 │
