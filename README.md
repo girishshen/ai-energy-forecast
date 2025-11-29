@@ -48,6 +48,7 @@
 
 </svg>
 
+---
 
 # 🔋 **AI Energy Forecasting System**
 A complete end-to-end **Energy Forecasting Application** featuring:
