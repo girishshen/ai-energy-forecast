@@ -23,7 +23,7 @@ This system predicts **next hour energy usage (kWh)** and provides a clean UI wi
 <p align="center">
   <b>🔥 AI-Powered Energy Forecasting System | Machine Learning • Flask API • Modern Frontend • End-to-End Project</b>
 </p>
-
+```
 ---
 
 ## 📸 Screenshots
