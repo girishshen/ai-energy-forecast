@@ -140,6 +140,11 @@ ENERGY-FORECASTING/
 │   ├── 02. Feature Engineering.ipynb
 │   └── 03. Modelling.ipynb
 │
+│── screenshots/
+│   ├── dark_mode.png
+│   ├── light_mode.png
+│   └── output.png
+│
 │── tests/
 │   └── test_api.py
 │
@@ -156,7 +161,7 @@ ENERGY-FORECASTING/
 
 ```sh
 git clone https://github.com/girishshenoy16/AI-Energy-Forecasting-System.git
-cd AI-Energy-Forecast
+cd AI-Energy-Forecasting-System
 ````
 
 ---
